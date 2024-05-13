@@ -502,9 +502,9 @@ button:hover {
 
 .container {
   position: absolute;
-  min-width: 500px;
   
-  top: 1000px;
+  min-width: 500px;
+  top: 1035px;
   left: 1000px;
   background: rgba(255, 255, 255, 0.3);
   padding: 20px;
